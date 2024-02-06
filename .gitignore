@@ -1,0 +1,35 @@
+# Java
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Visual Studio Code
+.vscode/
+
+# Logs and backups
+*.log
+*.bak
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
